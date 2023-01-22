@@ -17,6 +17,6 @@ Most android smartphones are compatible with the first .apk file. So, if you are
 
 ## Links
 
-1. [My LinkedIn](nhttps://linkedin.com/in/dhruv-badaya)
+1. [My LinkedIn](https://linkedin.com/in/dhruv-badaya)
 2. [My E-Mail](mailto:dhruvbadaya@gmail.com)
 3. [My Instagram](https://instagram.com/lightlessdays)
