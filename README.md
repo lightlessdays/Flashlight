@@ -10,9 +10,9 @@ This app quickly and easily turns on the flash next to the rear camera, and keep
 Most android smartphones are compatible with the first .apk file. So, if you are unsure about which .apk file to install, it is recommended that you install the first one.
 
 ## Screenshots
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/97734029/213903018-19f44be5-c3aa-447b-8728-53187abb4412.jpg" width=40% alt="Screenshot1">‎‎‎<img src="https://user-images.githubusercontent.com/97734029/213903020-56599b0c-7829-444a-8358-4deda6343583.jpg" width=40% alt="Screenshot2">
-
+</p>
 
 
 ## Links
