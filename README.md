@@ -15,7 +15,7 @@ Most android smartphones are compatible with the first .apk file. So, if you are
 
 ### For iOS Users
 
-Since I do not own a MacBook, it is not possible for me to build and distribute apps on iOS. To test this on your iOS device, you will need to download the code into your system and then open it in Android Studio. After this, you need to build the app for your iOS device. XCode is an essential requirement for this.
+Since I do not have XCode, it is not possible for me to build and distribute apps on iOS. To test this on your iOS device, you will need to download the code into your system and then open it in Android Studio. After this, you need to build the app for your iOS device. XCode is an essential requirement for this.
 
 ## Screenshots
 <p align="center">
