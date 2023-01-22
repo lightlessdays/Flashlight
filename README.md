@@ -11,7 +11,7 @@ Most android smartphones are compatible with the first .apk file. So, if you are
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/97734029/213903018-19f44be5-c3aa-447b-8728-53187abb4412.jpg" width=40% alt="Screenshot1">    <img src="https://user-images.githubusercontent.com/97734029/213903020-56599b0c-7829-444a-8358-4deda6343583.jpg" width=40% alt="Screenshot2">
+<img src="https://user-images.githubusercontent.com/97734029/213903018-19f44be5-c3aa-447b-8728-53187abb4412.jpg" width=40% alt="Screenshot1">‎‎‎<img src="https://user-images.githubusercontent.com/97734029/213903020-56599b0c-7829-444a-8358-4deda6343583.jpg" width=40% alt="Screenshot2">
 
 
 
