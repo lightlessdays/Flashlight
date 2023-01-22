@@ -1,13 +1,21 @@
 # Flashlight
 ![flashlight](https://user-images.githubusercontent.com/97734029/213902849-4d71cc0f-9823-4225-8b80-816a752ec605.png)
 
-This app quickly and easily turns on the flash next to the rear camera, and keeps it continuously lit. It is a small demo app made as a part of one hour coding sprint. To test this app on your device, you can download the .apk files from the links below:
+This app quickly and easily turns on the flash next to the rear camera, and keeps it continuously lit. It is a small demo app made as a part of one hour coding sprint. 
+
+### For Android Users
+
+To test this app on your device, you can download the .apk files from the links below:
 
 1. [ARM64-v8a.apk](https://github.com/lightlessdays/flashlight/blob/master/app-arm64-v8a-release.apk?raw=true)
 2. [ARMABI-v7a.apk](https://github.com/lightlessdays/flashlight/blob/master/app-armeabi-v7a-release.apk?raw=true)
 3. [x86_64.apk](https://github.com/lightlessdays/flashlight/blob/master/app-x86_64-release.apk?raw=true)
 
 Most android smartphones are compatible with the first .apk file. So, if you are unsure about which .apk file to install, it is recommended that you install the first one.
+
+### For iOS Users
+
+Since I do not own a MacBook, it is not possible for me to build and distribute apps on iOS. To test this on your iOS device, you will need to download the code into your system and then open it in Android Studio. After this, you need to build the app for your iOS device. XCode is an essential requirement for this.
 
 ## Screenshots
 <p align="center">
