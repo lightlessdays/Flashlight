@@ -3,9 +3,9 @@
 
 This app quickly and easily turns on the flash next to the rear camera, and keeps it continuously lit. It is a small demo app made as a part of one hour coding sprint. To test this app on your device, you can download the .apk files from the links below:
 
-1. [https://github.com/lightlessdays/flashlight/blob/master/app-arm64-v8a-release.apk?raw=true](ARM64-v8a.apk)
-2. [https://github.com/lightlessdays/flashlight/blob/master/app-armeabi-v7a-release.apk?raw=true](ARMABI-v7a.apk)
-3. [https://github.com/lightlessdays/flashlight/blob/master/app-x86_64-release.apk?raw=true](x86_64.apk)
+1. [ARM64-v8a.apk](https://github.com/lightlessdays/flashlight/blob/master/app-arm64-v8a-release.apk?raw=true)
+2. [ARMABI-v7a.apk](https://github.com/lightlessdays/flashlight/blob/master/app-armeabi-v7a-release.apk?raw=true)
+3. [x86_64.apk](https://github.com/lightlessdays/flashlight/blob/master/app-x86_64-release.apk?raw=true)
 
 Most android smartphones are compatible with the first .apk file. So, if you are unsure about which .apk file to install, it is recommended that you install the first one.
 
@@ -17,6 +17,6 @@ Most android smartphones are compatible with the first .apk file. So, if you are
 
 ## Links
 
-1. [https://linkedin.com/in/dhruv-badaya](My LinkedIn)
-2. [mailto:dhruvbadaya@gmail.com](My E-Mail)
-3. [https://instagram.com/lightlessdays](My Instagram)
+1. [My LinkedIn](nhttps://linkedin.com/in/dhruv-badaya)
+2. [My E-Mail](mailto:dhruvbadaya@gmail.com)
+3. [My Instagram](https://instagram.com/lightlessdays)
